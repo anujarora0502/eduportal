@@ -256,9 +256,9 @@ a.active{
 }
 
 .result-popup{
-  margin-top: 12%;
-  height: 32rem;;
-  width: 60%;
+  margin-top: 10%;
+  height: 30rem;;
+  width: 70%;
   background-color: white;
 }
 .first-result{
@@ -282,7 +282,7 @@ a.active{
 .percentage-result{
   color:red;
   font-size: 2rem;
-  margin-left: 25rem;
+  margin-left: 29rem;
 }
 
 .inb{
