@@ -439,5 +439,7 @@ a.active{
     font-size: 20px;
   }
 
-
+  body.background-img{
+    background-color: white;
+  }
 }
