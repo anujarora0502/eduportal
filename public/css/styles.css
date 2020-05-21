@@ -386,3 +386,58 @@ a.active{
 .marginminus{
   margin-top: 10%;
 }
+
+
+
+@media only screen and (max-width : 700px){
+  .login{
+
+  background: white;
+  height: 38rem;
+  width: 100%;
+  padding: 2rem;
+  padding-top: 9rem;
+  margin: 0;
+  border-radius: 10px;
+
+  }
+  .login-elements{
+    display: block;
+    margin: 10% auto;
+    width: 100%;
+  }
+  .login-input{
+    border: none;
+    border-bottom: 2px solid black;
+    font-size: 1.2rem;
+    padding: 1rem;
+  }
+  .facebook{
+    color : midnightblue;
+    font-size: 2rem;
+    display: none;
+    bottom: 0;
+  }
+
+  .twitter{
+    color : midnightblue;
+    font-size: 2rem;
+    position: fixed;
+    display: none;
+    bottom: 0;
+    }
+
+  .instagram{
+    color : midnightblue;
+    font-size: 2rem;
+    position: absolute;
+    display: none;
+    bottom: 0;
+  }
+
+  .navbar-brand{
+    font-size: 20px;
+  }
+
+
+}
